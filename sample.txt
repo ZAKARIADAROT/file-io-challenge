@@ -1,0 +1,15 @@
+Welcome to the File Read & Write Challenge!
+
+This program will:
+1. Read this file
+2. Convert all text to UPPERCASE
+3. Save the modified version to a new file
+
+Fun fact: Python was created by Guido van Rossum in 1991.
+
+ERROR HANDLING TEST CASES:
+- Missing file? ✔️ Handled!
+- Permission issues? ✔️ Handled!
+- Empty file? ✔️ Works too!
+
+Now you're ready to test the program!
